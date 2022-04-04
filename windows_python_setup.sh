@@ -12,3 +12,9 @@ pip install pandas
 pip install django-crispy-forms
 pip install crispy-bootstrap5
 
+pip install djangorestframework
+pip install markdown
+pip install django-filter
+
+npm install -g typescript
+npm install -g touch-for-windows
