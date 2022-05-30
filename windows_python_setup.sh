@@ -16,5 +16,15 @@ pip install djangorestframework
 pip install markdown
 pip install django-filter
 
+pip install boto3
+pip install psycopg2
+
 npm install -g typescript
 npm install -g touch-for-windows
+
+
+
+python --version && pip --version
+javac --version && java --version
+node --version && npm --version && npx --version
+go version

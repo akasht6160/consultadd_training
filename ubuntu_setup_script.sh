@@ -15,6 +15,11 @@ sudo apt insatll python3-pandas -y
 # for django forms & django-bootstrap
 sudo pip3 install django-crispy-forms
 sudo pip3 install crispy-bootstrap5
+sudo pip3 install boto3
+
+sudo apt-get update
+sudo apt-get install libpq-dev python-dev
+sudo pip install psycopg2
 
 #for c/c++
 sudo apt install g++ -y
